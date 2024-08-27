@@ -1,0 +1,8 @@
+
+Python Structure:
+"Source Code" > Compiler > "Byte Code" > interpreter(Python Virtual Mechine) > Machine Language
+
+Compiler: Your source code will be converted into mechine code(binary code)
+interpreter language: means you have set of instruction, your interpreter will read the instruction or code one by one
+PVM : Python is using PVM (Python Virtual Mechine) similar like JVM in Java
+
