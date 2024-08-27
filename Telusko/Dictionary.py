@@ -29,4 +29,4 @@ multipleDic = {'PYTHON':['Pycharm','Sublime'], 'JS':'Atom', 'JAVA':{'JEE': 'Ecli
 print(multipleDic['JS'])
 print(multipleDic['PYTHON'][1])
 print(multipleDic['JAVA']['JS'])
-print(multipleDic.get('PYTHON'))
+# print(multipleDic.get('PYTHON'))
