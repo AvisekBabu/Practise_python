@@ -1,7 +1,7 @@
 x = ["Avi", 2.5, 8]
 
-# for i in x:
-#     print(i)
+for i in x:
+    print(i)
 
 # for i in ["Avi", 2.5, 8]:
 #     print(i)
